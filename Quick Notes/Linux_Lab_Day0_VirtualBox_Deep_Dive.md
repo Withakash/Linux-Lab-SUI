@@ -1,4 +1,4 @@
-# Linux Lab – Lecture 4
+# Linux Lab – Day 0
 ## VirtualBox Deep Dive, ISO Files & Virtual Machine Management
 
 **Duration:** 40 Minutes  
